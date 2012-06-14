@@ -1,0 +1,535 @@
+http://www.alainet.org/,N/A
+http://www.atdl.org/,N/A
+http://www.cananews.com/,N/A
+http://isla.igc.org/,N/A
+http://www.latinnews.com/,N/A
+http://www.zonalatina.com/Zlpapers.htm,N/A
+http://www.latinamericanpost.com/,N/A
+http://www.lapress.org/,N/A
+http://www.mercopress.com/,N/A
+http://news.ntn24.com/,N/A
+http://www.prensa-latina.cu/,N/A
+http://www.pulsamerica.co.uk/,N/A
+http://www.un.org/apps/news/region.asp?Region=AMERICAS,N/A
+http://www.topix.net/world/antigua-and-barbuda/,Antigua/Barbuda
+http://www.antiguaobserver.com/,Antigua/Barbuda
+http://www.dyn.com.ar/,Argentina
+http://www.ambitoweb.com/diario/portada/,Argentina
+http://www.argenpress.info/,Argentina
+http://www.buenosairesherald.com/,Argentina
+http://www.clarin.com/,Argentina
+http://usuarios.lycos.es/codigocero/,Argentina
+http://www.cuyonoticias.com.ar/,Argentina
+http://www.castellanos.com.ar/,Argentina
+http://www.diariocronica.com.ar/,Argentina
+http://www.elchubut.com.ar/,Argentina
+http://www.litoral.com.ar/,Argentina
+http://www.diarioeloeste.com.ar/,Argentina
+http://www.diarioelpopular.com.ar/,Argentina
+http://www.diariohoy.net/,Argentina
+http://www.diariojornada.com.ar/,Argentina
+http://www.lacapitalnet.com.ar/,Argentina
+http://www.laopinion-pergamino.com.ar/,Argentina
+http://www.pregon.com.ar/,Argentina
+http://www.rosario-12.com.ar/,Argentina
+http://www.diariosanrafael.com.ar/,Argentina
+http://www.tiemposur.com.ar/,Argentina
+http://www.ecosdiarios.com,Argentina
+http://www.diarioelargentino.com.ar/,Argentina
+http://www.elcomercial.com.ar/,Argentina
+http://www.elcordillerano.com.ar/,Argentina
+http://www.cronista.com/,Argentina
+http://www.eldia.com.ar,Argentina
+http://www.eldiario.com.ar/,Argentina
+http://www.eldiariodelapampa.com.ar/,Argentina
+http://www.eldiariodelarepublica.com/,Argentina
+http://www.eldiariodelfindelmundo.com/,Argentina
+http://www.elheraldo.com.ar/,Argentina
+http://www.elindependiente.com.ar/,Argentina
+http://www.elliberal.com.ar/,Argentina
+http://www.elcronistaregional.com.ar/,Argentina
+http://www.surenio.com.ar/,Argentina
+http://www.eltribuno.com.ar/,Argentina
+http://www.diarioelzonda.com.ar/,Argentina
+http://www.laarena.com.ar/,Argentina
+http://www.infocanuelas.com/,Argentina
+http://www.lacapital.com.ar/,Argentina
+http://www.lagaceta.com.ar/,Argentina
+http://www.lanacion.com.ar/,Argentina
+http://www.laopinion-rafaela.com.ar/,Argentina
+http://www.larazon.com.ar/,Argentina
+http://www.lasemana.info/,Argentina
+http://www.lavozdelinterior.net/,Argentina
+http://www.lndnoticias.com.ar/,Argentina
+http://www.losandes.com.ar/,Argentina
+http://www.misionesonline.net/,Argentina
+http://www.kidon.com/media-link/ar.php,Argentina
+http://www.noticiasonline.org/,Argentina
+http://www.nuestroagro.com.ar/,Argentina
+http://www.ole.clarin.com/,Argentina
+http://www.pagina12.com.ar/,Argentina
+http://www.periodismo.com/,Argentina
+http://www.regionnet.com.ar/,Argentina
+http://www.rionegro.com.ar/,Argentina
+http://www.rosarionet.com.ar/,Argentina
+http://www.telam.com.ar/,Argentina
+http://www.territoriodigital.com/,Argentina
+http://www.urgente24.com/,Argentina
+http://www.valorlocal.com.ar/,Argentina
+http://www.bondia.com/,Aruba
+http://amigoe.com/,Aruba
+http://www.diarioaruba.com/,Aruba
+http://www.laprensacur.com/,Aruba
+http://www.telearuba.aw/,Aruba
+http://www.abaconian.com/,Bahamas
+http://www.jonesbahamas.com/,Bahamas
+http://freeport.nassauguardian.net/,Bahamas
+http://www.thenassauguardian.com,Bahamas
+http://www.barbadosadvocate.com,Barbados
+http://www.nationnews.com/,Barbados
+http://www.broadstreetnews.com/,Barbados
+http://www.caribbeannetnews.com/barbados/barbados.php,Barbados
+http://ambergristoday.com/,Belize
+http://www.belizeradio.com/,Belize
+http://www.belizefirst.com/,Belize
+http://www.belizetimes.bz/,Belize
+http://belizenews.com/,Belize
+http://www.gazette.gov.bz/,Belize
+http://www.guardian.bz/,Belize
+http://www.placenciabreeze.com/,Belize
+http://sanpedrodaily.com/,Belize
+http://www.sanpedrosun.net/,Belize
+http://www.comunica.gov.bo/,Bolivia
+http://www.fidesbolivia.com/,Bolivia
+http://www.bolivia.com/,Bolivia
+http://www.bolpress.com/,Bolivia
+http://www.correodelsur.com/,Bolivia
+http://www.econoticiasbolivia.com/,Bolivia
+http://www.eldeber.com.bo/,Bolivia
+http://www.eldiario.net/,Bolivia
+http://www.elmundo.com.bo/,Bolivia
+http://www.el-nuevodia.com/,Bolivia
+http://www.elpaisonline.com,Bolivia
+http://www.elpotosi.net/,Bolivia
+http://www.energypress.com/,Bolivia
+http://www.hoybolivia.com/,Bolivia
+http://www.jornadanet.com/,Bolivia
+http://www.la-epoca.com/,Bolivia
+http://www.boliviabeni.com/LAPALABRA.htm,Bolivia
+http://www.lapatriaenlinea.com/,Bolivia
+http://www.la-razon.com/,Bolivia
+http://www.lostiempos.com,Bolivia
+http://www.noticiasbolivianas.com/,Bolivia
+http://www.opinion.com.bo/,Bolivia
+http://www.tierralejana.com/,Brazil
+http://www.adital.org.br/,Brazil
+http://www.agne.com.br/,Brazil
+http://www.agenciaoglobo.com.br/,Brazil
+http://www.bbc.co.uk/portuguese/,Brazil
+http://www.thebrazilian.com/,Brazil
+http://www.brazilianpress.com/,Brazil
+http://www.estadao.com.br/,Brazil
+http://www.folha.uol.com.br/,Brazil
+http://jbonline.terra.com.br/,Brazil
+http://jornais.paginainicial.com.br/,Brazil
+http://paginas.terra.com.br/arte/emerickhorn/jornais_brasileiros.htm,Brazil
+http://www.jornaisdehoje.com.br/,Brazil
+http://www.jornaisdobrasil.com/,Brazil
+http://www.mercopress.com/,Brazil
+http://www.midiasemmascara.org/,Brazil
+http://www.kidon.com/media-link/br.php,Brazil
+http://www.latindex.com/prensa/bra.htm,Brazil
+http://www.mastersite.com.br/jornaisbrasil.html,Brazil
+http://noticias.uol.com.br/ultnot/,Brazil
+http://www.caycompass.com/,Cayman Islands
+http://www.caymannetnews.com/,Cayman Islands
+http://www.caymanobserver.com/,Cayman Islands
+http://www.cavancha.cl/,Chile
+http://www.elciudadano.cl/,Chile
+http://www.chasquis.cl/,Chile
+http://elchileno.cl/,Chile
+http://www.lacuarta.cl,Chile
+http://www.df.cl/,Chile
+http://www.estrategia.cl/,Chile
+http://www.diarioladiscusion.cl/,Chile
+http://www.lahora.cl/,Chile
+http://www.diariollanquihue.cl/,Chile
+http://www.emol.com/,Chile
+http://www.mercuriovalpo.cl/,Chile
+http://www.elmostrador.cl,Chile
+http://www.lanacion.cl/,Chile
+http://www.laprensaaustral.cl/,Chile
+http://www.santiagotimes.cl/,Chile
+http://www.elsiglo.cl/,Chile
+http://www.lasegunda.com/,Chile
+http://www.elsur.cl/,Chile
+http://www.latercera.com/,Chile
+http://www.lavozdearauco.cl/,Chile
+http://colombia.indymedia.org/,Colombia
+http://www.diariodelhuila.com/,Colombia
+http://www.diariodeportivo.com,Colombia
+http://www.elcolombiano.com/,Colombia
+http://www.eldiario.com.co/,Colombia
+http://www.elespectador.com/,Colombia
+http://www.elheraldo.com.co/,Colombia
+http://www.elliberal.com.co/,Colombia
+http://www.elmundo.com/,Colombia
+http://www.elnuevodia.com.co/,Colombia
+http://www.elnuevosiglo.com.co/,Colombia
+http://www.elpais.com.co/,Colombia
+http://www.eltiempo.com/,Colombia
+http://www.eluniversal.com.co/v2/cartagena/sucesos,Colombia
+http://www.lalibertad.com.co/,Colombia
+http://www.laopinion.com.co,Colombia
+http://www.lapatria.com/,Colombia
+http://www.larepublica.com.co,Colombia
+http://www.latarde.com/,Colombia
+http://www.portafolio.com.co/,Colombia
+http://www.vanguardia.com/,Colombia
+http://www.amcostarica.com/,Costa Rica
+http://www.aldia.co.cr/,Costa Rica
+http://costarica.capitalfinanciero.com/edactual/,Costa Rica
+http://www.diarioextra.com/,Costa Rica
+http://www.imprenal.go.cr/,Costa Rica
+http://www.informa-tico.com/,Costa Rica
+http://www.elheraldo.net/,Costa Rica
+http://www.nacion.com/,Costa Rica
+http://www.prensalibre.co.cr/,Costa Rica
+http://www.larepublica.net/,Costa Rica
+http://cariari.ucr.ac.cr/%7Esemana/,Costa Rica
+http://www.noticiasdemujer.com/,Costa Rica
+http://www.ticotimes.net/,Costa Rica
+http://www.5septiembre.cu,Cuba
+http://www.periodico26.cu,Cuba
+http://www.adelante.cu,Cuba
+http://www.ain.cubaweb.cu,Cuba
+http://www.ahora.cu,Cuba
+http://cuba-l.unm.edu/,Cuba
+http://www.cubadebate.cu/,Cuba
+http://www.cubanet.org,Cuba
+http://www.lademajagua.co.cu,Cuba
+http://www.cubaencuentro.com/,Cuba
+http://www.escambray.cu/,Cuba
+http://www.granma.cubaweb.cu/,Cuba
+http://www.granma.cu/,Cuba
+http://www.guerrillero.co.cu,Cuba
+http://www.elhabanero.cubaweb.cu,Cuba
+http://www.invasor.cu/,Cuba
+http://www.juventudrebelde.cu,Cuba
+http://www.martinoticias.com/,Cuba
+http://www.thecubannation.com/,Cuba
+http://www.nnc.cubaweb.cu/,Cuba
+http://www.lanuevacuba.com/master.htm,Cuba
+http://www.prensa-latina.cu/,Cuba
+http://www.puenteinfocubamiami.org/,Cuba
+http://www.sierramaestra.cu,Cuba
+http://www.trabajadores.cu/,Cuba
+http://www.tribuna.co.cu/,Cuba
+http://www.vanguardia.co.cu/,Cuba
+http://www.venceremos.co.cu/,Cuba
+http://www.elveraz.com/,Cuba
+http://www.dbcradio.net/,Dominica
+http://www.thedominican.net/,Dominica
+http://kairifm.com/,Dominica
+http://www.news-dominica.com/index.cfm,Dominica
+http://www.elcaribe.com.do/,Dominican Republic
+http://www.clavedigital.com/,Dominican Republic
+http://www.diarioadiario.com/,Dominican Republic
+http://www.diariodigitalrd.com/,Dominican Republic
+http://www.diariolibre.com/,Dominican Republic
+http://www.hoy.com.do/,Dominican Republic
+http://www.listin.com.do/,Dominican Republic
+http://www.elnacional.com.do/,Dominican Republic
+http://elnuevodiario.com.do/,Dominican Republic
+http://www.perspectivaciudadana.com/,Dominican Republic
+http://www.laplana.com.do/,Dominican Republic
+http://www.rdnoticias.com/,Dominican Republic
+http://www.redom.com/,Dominican Republic
+http://www.listin.com.do/app/oh_section.aspx?id=52,Dominican Republic
+http://www.elviajero.com.do/,Dominican Republic
+http://ecuador.indymedia.org/,Ecuador
+http://www.elcomercio.com/,Ecuador
+http://www.eldiario.com.ec,Ecuador
+http://www.diario-expreso.com/,Ecuador
+http://www.elfinanciero.com/,Ecuador
+http://www.elheraldo.com.ec/,Ecuador
+http://www.elmercurio.com.ec/,Ecuador
+http://www.mercuriomanta.com/,Ecuador
+http://www.telegrafo.com.ec,Ecuador
+http://www.eluniverso.com/,Ecuador
+http://www.diario-extra.com/,Ecuador
+http://www.hoy.com.ec/,Ecuador
+http://www.lahora.com.ec/,Ecuador
+http://www.laprensa.com.ec/,Ecuador
+http://www.diariocolatino.com/,El Salvador
+http://www.elsalvador.com/,El Salvador
+http://www.imprentanacional.gob.sv/,El Salvador
+http://www.elfaro.net/,El Salvador
+http://www.elmundo.com.sv/,El Salvador
+http://www.laprensagrafica.com/,El Salvador
+http://www.raices.com.sv/,El Salvador
+http://www.caribbeannetnews.com/grenada/grenada.php,Grenada
+http://www.spiceislander.com/,Grenada
+http://www.bondamanjak.com/,Guadeloupe
+http://www.st-barths.com/jsb/,Guadeloupe
+http://guadeloupe.rfo.fr/,Guadeloupe
+http://www.cerigua.info/,Guatemala
+http://www.dca.gob.gt,Guatemala
+http://www.elperiodico.com.gt,Guatemala
+http://www.i-dem.org/,Guatemala
+http://www.lahora.com.gt/,Guatemala
+http://www.noti7.com.gt/,Guatemala
+http://www.prensalibre.com/,Guatemala
+http://www.sigloxxi.com,Guatemala
+http://www.telediario.com.gt/,Guatemala
+http://www.gina.gov.gy/,Guyana
+http://www.guyanachronicle.com/,Guyana
+http://www.guyanajournal.com/,Guyana
+http://www.guyana.org/,Guyana
+http://www.stabroeknews.com/,Guyana
+http://www.ahphaiti.org/,Haiti
+http://www.alterpresse.org/,Haiti
+http://www.alterpresse.org/rubrique.php3?id_rubrique=12,Haiti
+http://www.alterpresse.org/rubrique.php3?id_rubrique=14,Haiti
+http://www.audiencemag.net/,Haiti
+http://www.bostonhaitian.com/,Haiti
+http://www.medialternatif.org,Haiti
+http://www.haitienmarche.com/,Haiti
+http://www.haiti-info.com,Haiti
+http://www.haitipressnetwork.com/,Haiti
+http://www.haiti-progres.com/,Haiti
+http://www.haitiantimes.com/,Haiti
+http://www.tiempo.hn/,Honduras
+http://www.hablemosclaro.com/,Honduras
+http://www.elheraldo.hn/,Honduras
+http://www.marrder.com/htw/,Honduras
+http://www.laprensahn.com/,Honduras
+http://www.proceso.hn/,Honduras
+http://www.revistazo.com/,Honduras
+http://www.latribuna.hn/,Honduras
+http://www.jamaica-gleaner.com/,Jamaica
+http://www.jamaicaobserver.com,Jamaica
+http://www.jamaica-star.com/,Jamaica
+http://www.sunheraldja.com/,Jamaica
+http://www.bondamanjak.com/,Martinique
+http://www.caraibes-webdo.net/,Martinique
+http://martinique.rfo.fr/,Martinique
+http://www.barricada.com.ni/,Nicaragua
+http://www.bolsadenoticias.com.ni/,Nicaragua
+http://www.confidencial.com.ni/,Nicaragua
+http://www.elnuevodiario.com.ni/,Nicaragua
+http://www.lajornadanet.com/,Nicaragua
+http://www.laprensa.com.ni/,Nicaragua
+http://www.trinchera.com.ni/,Nicaragua
+http://www.diaadia.com.pa/,Panama
+http://www.elsiglo.com/,Panama
+http://www.pa-digital.com.pa/,Panama
+http://www.critica.com.pa/,Panama
+http://www.estrelladepanama.com/,Panama
+http://www.prensa.com/,Panama
+http://www.panamundo.com/,Panama
+http://www.thepanamanews.com/,Panama
+http://www.todosports.com/,Panama
+http://www.abc.com.py/,Paraguay
+http://www.cronica.com.py/,Paraguay
+http://www.ultimahora.com/,Paraguay
+http://www.lanacion.com.py/,Paraguay
+http://www.neike.com.py/,Paraguay
+http://www.cnr.org.pe/,Peru
+http://www.andina.com.pe/,Peru
+http://www.correoperu.com.pe/,Peru
+http://www.larazon.com.pe/,Peru
+http://www.elperuano.com.pe/,Peru
+http://www.elbocon.com.pe/,Peru
+http://www.elcomercioperu.com.pe/,Peru
+http://www.diariodelcusco.com/,Peru
+http://www.eltiempo.com.pe/,Peru
+http://www.expreso.com.pe/,Peru
+http://www.generaccion.com/,Peru
+http://www.asesor.com.pe/laencuesta/,Peru
+http://www.laindustria.com/,Peru
+http://www.laindustria.com/chimbote/,Peru
+http://www.larepublica.com.pe/,Peru
+http://www.libero.com.pe/,Peru
+http://www.ojo.com.pe/,Peru
+http://www.periodismoenlinea.com/,Peru
+http://www.peru21.com/,Peru
+http://www.todosport.com.pe/,Peru
+http://www.caribbeancinemas.com/theather_locations/index.asp,Puerto Rico
+http://www.claridadpuertorico.com/,Puerto Rico
+http://personal.isla.net/cronista/,Puerto Rico
+http://www.estrelladepr.com/,Puerto Rico
+http://www.elexpresso.com/,Puerto Rico
+http://www.laesquina.com/,Puerto Rico
+http://www.impacto.addr.com/Impacto1/,Puerto Rico
+http://www.geocities.com/Baja/4757/impresiones.html,Puerto Rico
+http://www.endi.com/,Puerto Rico
+http://www.primerahora.com/,Puerto Rico
+http://www.puertorico-herald.org,Puerto Rico
+http://www.thesanjuanstar.com/,Puerto Rico
+http://www.vocero.com/,Puerto Rico
+http://www.leewardstimes.com/,St. Kitts/Nevis
+http://www.sunstkitts.com/,St. Kitts/Nevis
+http://www.htsstlucia.com/,St. Lucia
+http://www.rslonline.com/,St. Lucia
+http://www.luciabeat.com/,St. Lucia
+http://www.stluciamirroronline.com/,St. Lucia
+http://www.slucia.com/radio/,St. Lucia
+http://www.stluciastar.com/,St. Lucia
+http://www.caribbeancompass.com/,St. Vincent/The Grenadines
+http://www.searchlight.vc/,St. Vincent/The Grenadines
+http://www.thevincentian.com/,St. Vincent/The Grenadines
+http://www.dbsuriname.com/,Suriname
+http://www.dewestonline.cq-link.sr/,Suriname
+http://www.dwtonline.com/,Suriname
+http://www.meppublishers.com/online/caribbean-beat/,Trinidad/Tobago
+http://www.catholicnews-tt.net/,Trinidad/Tobago
+http://www.thetobagonews.com/,Trinidad/Tobago
+http://www.trinidadexpress.com/,Trinidad/Tobago
+http://www.guardian.co.tt/,Trinidad/Tobago
+http://www.newsday.co.tt/,Trinidad/Tobago
+http://www.tcifreepress.com/Turks/Caicos
+http://www.suntci.com/Turks/Caicos
+http://www.tcweeklynews.com/Turks/Caicos
+http://uruguay.indymedia.org/,Uruguay
+http://www.cronicas.com.uy/,Uruguay
+http://www.chasque.apc.org/juventud/,Uruguay
+http://www.diarioelpueblo.com.uy/,Uruguay
+http://www.espectador.com,Uruguay
+http://www.observa.com.uy/,Uruguay
+http://www.elpais.com.uy/,Uruguay
+http://www.eltelegrafo.com/,Uruguay
+http://www.redtercermundo.org.uy/,Uruguay
+http://www.ultimasnoticias.com.uy/,Uruguay
+http://stx.onepaper.com/,U.S. Virgin Islands
+http://stj.onepaper.com/,U.S. Virgin Islands
+http://sts.onepaper.com/,U.S. Virgin Islands
+http://www.stthomasthisweek.com/,U.S. Virgin Islands
+http://www.stjohntradewindsnews.com/,U.S. Virgin Islands
+http://www.dailynews.vi/,U.S. Virgin Islands
+http://www.wsta.com/,U.S. Virgin Islands
+http://www.wtjxtv.org/,U.S. Virgin Islands
+http://www.11abril.com/,Venezuela
+http://www.avn.info.ve/,Venezuela
+http://www.correodelcaroni.com/,Venezuela
+http://www.correodelorinoco.gob.ve/,Venezuela
+http://www.2001.com.ve/,Venezuela
+http://www.diarioeltiempo.com.ve/,Venezuela
+http://www.diariolavoz.net/,Venezuela
+http://www.el-carabobeno.com/,Venezuela
+http://www.elimpulso.com/,Venezuela
+http://www.elmundo.com.ve/,Venezuela
+http://www.el-nacional.com/,Venezuela
+http://www.elnorte.com.ve/,Venezuela
+http://www.elperiodiquito.com/,Venezuela
+http://www.diarioelprogreso.com,Venezuela
+http://www.elsiglo.com.ve/,Venezuela
+http://www.eud.com/,Venezuela
+http://www.eluniversal.com/eng_index.shtml,Venezuela
+http://www.diariofrontera.com,Venezuela
+http://www.lahora.com/,Venezuela
+http://www.lanacion.com.ve/,Venezuela
+http://www.laverdad.com/,Venezuela
+http://www.meridiano.com.ve/,Venezuela
+http://www.noticias24.com/,Venezuela
+http://www.notitarde.com/,Venezuela
+http://www.observatoriodemedios.org.ve,Venezuela
+http://www.quintodia.com/,Venezuela
+http://www.panodi.com,Venezuela
+http://www.talcualdigital.com/,Venezuela
+http://www.ultimahoradigital.com/,Venezuela
+http://www.ultimasnoticias.com.ve/,Venezuela
+http://www.venezuelanalysis.com/,Venezuela
+http://www.analitica.com/,Venezuela
+http://www.vcrisis.com,Venezuela
+http://www.abyznewslinks.com/,N/A
+http://www.efe.es/,N/A
+http://www.bbc.co.uk/portuguese/,N/A
+http://news.bbc.co.uk/hi/spanish/news/,N/A
+http://www.ecola.com/,N/A
+http://www.editorandpublisher.com/eandp/index.jsp,N/A
+http://www.elpais.es/,N/A
+http://mx.sports.yahoo.com/,N/A
+http://getlocalne.ws/,N/A
+http://www.ips.org/,N/A
+http://www.kidon.com/media-link/index.shtml,N/A
+http://www.periodicosonline.org/,N/A
+http://www.mediabriefing.com/,N/A
+http://www.guardian.co.uk/worldnewsguide/,N/A
+http://www.worldpress.org/americas.htm,N/A
+http://www.notimex.com.mx/,Mexico
+http://www.diarioamanecer.com.mx/,Mexico
+http://www.diariodemexico.com.mx/,Mexico
+http://www.economista.com.mx/,Mexico
+http://www.elfinanciero.com.mx/,Mexico
+http://www.el-universal.com.mx/,Mexico
+http://www.nuevoexcelsior.com.mx/,Mexico
+http://www.cronica.com.mx/,Mexico
+http://www.jornada.unam.mx/,Mexico
+http://www.milenio.com/,Mexico
+http://www.reforma.com/,Mexico
+http://www.elsoldemexico.com.mx/,Mexico
+http://www.elsoldelcentro.com.mx/,Mexico
+http://www.el-mexicano.info/,Mexico
+http://www.elvigia.net/,Mexico
+http://www.frontera.info,Mexico
+http://www.lavozdelafrontera.com.mx/,Mexico
+http://www.elsur.com.mx/,Mexico
+http://www.diario.com.mx/,Mexico
+http://www.elheraldodechihuahua.com.mx,Mexico
+http://www.tiempo.com.mx/,Mexico
+http://www.cuarto-poder.com.mx/,Mexico
+http://www.diariodechiapas.com.mx/,Mexico
+http://www.elorbe.com.mx/,Mexico
+http://www.elsiglodetorreon.com.mx/,Mexico
+http://www.vanguardia.com.mx/,Mexico
+http://www.zocalo.com.mx/,Mexico
+http://diariodecolima.com/,Mexico
+http://www.contextodedurango.com.mx/,Mexico
+http://www.elsiglodedurango.com.mx/,Mexico
+http://www.elsoldeacapulco.com.mx/,Mexico
+http://www.suracapulco.com.mx/,Mexico
+http://www.aca-novenet.com.mx/,Mexico
+http://www.correo-gto.com.mx/,Mexico
+http://www.am.com.mx/,Mexico
+http://www.elsoldeirapuato.com.mx/,Mexico
+http://www.elsoldelbajio.com.mx/,Mexico
+http://www.informador.com.mx/,Mexico
+http://www.eloccidental.com.mx/,Mexico
+http://www.guadalajarareporter.com/,Mexico
+http://www.mural.com/,Mexico
+http://www.notiarandas.com/,Mexico
+http://www.ochocolumnas.com.mx/,Mexico
+http://www.elsoldetoluca.com.mx/,Mexico
+http://www.cambiodemichoacan.com.mx/,Mexico
+http://la-extra.com.mx/,Mexico
+http://www.vozdemichoacan.com.mx/,Mexico
+http://www.launion.com.mx/,Mexico
+http://www.elsoldenayarit.com/,Mexico
+http://www.elnorte.com/,Mexico
+http://www.elporvenir.com.mx/,Mexico
+http://www.imparcialenlinea.com/,Mexico
+http://www.noticias-oax.com.mx/,Mexico
+http://www.oaxacatimes.com/,Mexico
+http://www.elsoldepuebla.com.mx/,Mexico
+http://www.opinion.com.mx/,Mexico
+http://www.diariodequeretaro.com.mx/,Mexico
+http://www.sipse.com/novedades/,Mexico
+http://www.elsoldesanluis.com.mx/,Mexico
+http://www.pulsoslp.com.mx/,Mexico
+http://www.debate.com.mx/,Mexico
+http://www.noroeste.com.mx/,Mexico
+http://www.elimparcial.com/,Mexico
+http://www.tribuna.com.mx/,Mexico
+http://www.tabascohoy.com/,Mexico
+http://www.elmanana.com.mx/,Mexico
+http://www.elmananarey.com.mx/,Mexico
+http://www.elmercurio.com.mx/,Mexico
+http://www.elsoldetampico.com.mx,Mexico
+http://www.oem.com.mx/elsoldetlaxcala/,Mexico
+http://www.diariodexalapa.com.mx/,Mexico
+http://www.laopinion.com.mx/,Mexico
+http://edicion.yucatan.com.mx/,Mexico
+http://www.elsoldezacatecas.com.mx/,Mexico
+http://www.imagenzac.com.mx,Mexico
+
